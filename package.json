@@ -1,0 +1,32 @@
+{
+  "name": "leo-timeline",
+  "version": "1.0.0",
+  "description": "leo timeline css",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.2",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leopen-hu/leo-timeline.git"
+  },
+  "keywords": [
+    "css",
+    "timeline",
+    "html"
+  ],
+  "author": "leopen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leopen-hu/leo-timeline/issues"
+  },
+  "homepage": "https://github.com/leopen-hu/leo-timeline#readme"
+}
